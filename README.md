@@ -1,2 +1,2 @@
-# Aulas-Implanta-o
-Arquivos das aulas de implantação de sistemas(Delphi10)
+# Aulas-Desenvolvimento
+Arquivos da primeira aula de desenvolvimento de softwares(Delphi10)
