@@ -1,0 +1,14 @@
+program atv07;
+
+uses
+  Vcl.Forms,
+  U_atv07 in 'U_atv07.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
